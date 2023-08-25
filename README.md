@@ -14,7 +14,7 @@ The goal of this project is to automate the data extraction and processing of Sa
 
 Here is the visual representation of the task flow:
 ![Task Flow](https://github.com/pavan-forlooper/Data_engineering_Airflow_salesforce_rest-api/blob/main/Picture1.png)
-(https://github.com/pavan-forlooper/Data_engineering_Airflow_salesforce_rest-api/blob/main/Picture2.png)
+![Task Flow](https://github.com/pavan-forlooper/Data_engineering_Airflow_salesforce_rest-api/blob/main/Picture2.png)
 
 
 ## Table of Contents
